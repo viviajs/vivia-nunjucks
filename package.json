@@ -1,0 +1,21 @@
+{
+  "name": "vivia-nunjucks",
+  "version": "0.0.1",
+  "description": "vivia nunjucks",
+  "author": "Saurlax",
+  "keywords": [
+    "vivia",
+    "nunjucks"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saurlax/vivia-nunjucks.git"
+  },
+  "files": [
+    "index.js"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "nunjucks": "^3.2.4"
+  }
+}
