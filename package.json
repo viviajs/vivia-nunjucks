@@ -9,7 +9,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/saurlax/vivia-nunjucks.git"
+    "url": "git+https://github.com/vivia/vivia-nunjucks.git"
   },
   "files": [
     "index.js"
